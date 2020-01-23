@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Bouncy
+  - Ennemi
+  - Win
+  - Collectible
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Caustic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG_Far
+    uniqueID: 1733631223
+    locked: 0
+  - name: BG_Mid
+    uniqueID: 1232261025
+    locked: 0
+  - name: BG
+    uniqueID: 3293298225
+    locked: 0
+  - name: Player
+    uniqueID: 2786908073
+    locked: 0
+  - name: middle
+    uniqueID: 3392333555
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2006324617
+    locked: 0
+  - name: Foreground1
+    uniqueID: 1746119555
+    locked: 0
